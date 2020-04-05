@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ng-refresher2';
+  title = 'ng-refresher';
+  persons = ['Joseph', 'Nashat', 'Isaac'];
 }
